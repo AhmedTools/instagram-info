@@ -5,7 +5,7 @@ Fetch Instagram account information using the user ID .
 — — — — —
 
 ⚠️ Note :
-An Instagram session is optional ..
+An Instagram session is optional.
 If you add a valid session , the tool will return more detailed information ..
 
 — — — — —
