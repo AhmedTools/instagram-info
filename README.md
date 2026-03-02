@@ -4,9 +4,13 @@ Fetch Instagram account information using the user ID.
 
 — — — — —
 
-Requirements :
+⚠️ Note :
 An Instagram session is optional.  
-If you add a session, the tool will return more detailed information.
+If you add a valid session, the tool will return more detailed information.
+
+— — — — —
+
+Don’t forget to interact with the post 💋
 
 — — — — —
 
