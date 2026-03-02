@@ -1,12 +1,12 @@
 # Instagram Information Tool
 
-Fetch Instagram account information using the user ID.
+Fetch Instagram account information using the user ID .
 
 — — — — —
 
 ⚠️ Note :
-An Instagram session is optional.  
-If you add a valid session, the tool will return more detailed information.
+An Instagram session is optional ,
+If you add a valid session , the tool will return more detailed information ..
 
 — — — — —
 
